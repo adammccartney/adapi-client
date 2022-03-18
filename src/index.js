@@ -1,5 +1,3 @@
-//const fetchPromise = fetch('http://mdn.github.io/learning-area/javascript/apis/fetching-data/can-store/products.json');
-
 async function fetchToken () {
     try {
         const response = await fetch("http://127.0.0.1:9001/tok.json");

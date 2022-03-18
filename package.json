@@ -1,5 +1,5 @@
 {
-  "name": "mdwapi-client",
+  "name": "adapi-client",
   "version": "0.0.1",
   "description": "Just a simple test repo for trying out some things regarding authenticated requests and REST apis",
   "main": "index.js",

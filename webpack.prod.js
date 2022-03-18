@@ -7,7 +7,7 @@ const { merge } = require('webpack-merge');
    devtool: 'source-map',
    plugins: [
        new webpack.EnvironmentPlugin({
-           PATH_PREFIX: process.env.MDWAPI_PATH_PREFIX || '',
+           PATH_PREFIX: process.env.ADAPI_PATH_PREFIX || '',
        }),
    ],
  });

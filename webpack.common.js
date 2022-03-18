@@ -41,7 +41,7 @@
    plugins: [
      new HtmlWebpackPlugin({
           filename: path.resolve(__dirname, 'dist/index.html'),
-          publicPath: process.env.MDWAPI_PATH_PREFIX || 'auto',
+          publicPath: process.env.ADAPI_PATH_PREFIX || 'auto',
           template: path.resolve(__dirname, 'src/index.html'),
      }),
    ],
