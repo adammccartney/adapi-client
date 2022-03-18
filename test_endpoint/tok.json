@@ -1,0 +1,6 @@
+[
+    {
+        "GITLAB_API_USERNAME":"mrsecret",
+        "GITLAB_API_TOKEN":"secrettokenthatdoesntleak"
+    }
+]
